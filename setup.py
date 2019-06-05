@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="TestRepo",
-    version="0.0.1",
+    version="0.0.2",
     author="Richard Brenick",
     author_email="RichardBrenick@gmail.com",
     description="A small example package",
