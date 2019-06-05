@@ -21,6 +21,7 @@ setuptools.setup(
     ],
     
     install_requires=[
-    'Qt.py',
+    "Qt.py",
+    "p4python",
     ]
 )
