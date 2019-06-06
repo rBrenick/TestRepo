@@ -1,0 +1,53 @@
+Metadata-Version: 2.1
+Name: TestRepo
+Version: 0.0.3
+Summary: A small example package
+Home-page: https://github.com/rBrenick/TestRepo
+Author: Richard Brenick
+Author-email: RichardBrenick@gmail.com
+License: UNKNOWN
+Description: # examplePython_1
+        Example Rep for testing Git
+        
+        This is the very first change that gets added to the git
+        
+        Second Modification
+        
+        Third Mod
+        
+        testing of branching
+        
+        
+        
+        
+        
+        HotFix
+        
+        
+        
+        
+        
+        
+        
+        more changes
+        more changes 2
+        
+        post-merge 1 change
+        
+        
+        
+        MOOOOORe Testing
+        
+        
+        doing thing with FORK
+        
+        more lines
+        
+        another branchhhhh
+        another branchhhhh2
+        another branchhhhh3
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
