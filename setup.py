@@ -25,3 +25,10 @@ setuptools.setup(
     "p4python",
     ]
 )
+
+
+print("#"*50)
+print("#"*50)
+print("SETUP.py extra things")
+print("#"*50)
+print("#"*50)
