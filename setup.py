@@ -3,6 +3,14 @@ import setuptools
 with open("README.md", "r") as fh:
     long_description = fh.read()
 
+
+print("#"*50)
+print("#"*50)
+print("SETUP.py extra things")
+print("#"*50)
+print("#"*50)
+
+    
 setuptools.setup(
     name="TestRepo",
     version="0.0.3",
@@ -26,9 +34,3 @@ setuptools.setup(
     ]
 )
 
-
-print("#"*50)
-print("#"*50)
-print("SETUP.py extra things")
-print("#"*50)
-print("#"*50)
