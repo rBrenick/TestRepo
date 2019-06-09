@@ -21,7 +21,7 @@ class CustomInstallCommand(install):
 
 setuptools.setup(
     name="TestRepo",
-    version="0.0.3",
+    version="0.0.4",
     author="Richard Brenick",
     author_email="RichardBrenick@gmail.com",
     description="A small example package",
