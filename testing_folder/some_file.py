@@ -7,3 +7,5 @@ def a_function():
     
 print("modifed heyo 3")
 
+import sys
+print(sys.executable)
